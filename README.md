@@ -1,6 +1,6 @@
 <div align="center">
 
-# ZEYAD YASSER
+# 𝓩𝓮𝔂𝓪𝓭 𝓨𝓪𝓼𝓼𝓮𝓻
 **CS Student @ Zewail University of Science and Technology**
 *Software Development × Creative Direction*
 
