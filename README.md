@@ -3,13 +3,6 @@
 # 𝓩𝓮𝔂𝓪𝓭 𝓨𝓪𝓼𝓼𝓮𝓻
 **CS Student @ Zewail University of Science and Technology**
 *Software Development × Creative Direction*
-
----
-
-### "Cultivating knowledge through discipline and rigor."
-
-[Email](mailto:zeyad2007.4y@gmail.com) • [LinkedIn](#) • [Portfolio](https://ZeyadYasser114.github.io)
-
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&bg_color=00000000" width="400" />
