@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zeyad Yasser
+# 𝒵𝑒𝓎𝒶𝒹 𝒴𝒶𝓈𝓈𝑒𝓇
 
 *Developer × Creator*
 
@@ -39,12 +39,6 @@ Always exploring new tools and techniques
 <img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&hide_title=true&theme=transparent&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="48%"/>
-
----
-
-### 🤝 Let's Connect
-
-Building something interesting? Let's talk.
 
 ---
 
