@@ -1,46 +1,53 @@
 <div align="center">
 
-# *𝓩𝓮𝔂𝓪𝓭 𝓨𝓪𝓼𝓼𝓮𝓻*
-**CS Student @ Zewail University of Science and Technology**
-*Software Development × Creative Direction*
+# Zeyad Yasser
+
+*Developer × Creator*
 
 ---
-<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&bg_color=00000000" width="400" />
+### 👨‍💻 About Me
 
-<br />
+🎓 Computer Science @ Zewail University of Science and Technology  
+💻 Building with **Java** | Problem Solving | Software Design  
+🎨 Creative work in music, animation & editing
 
-### 💻 The Technical Core
-**Engineering clean, efficient solutions with a focus on Software Design.**
+---
 
-**Languages:** Java • Python • HTML5/CSS3
-**Concepts:** Problem Solving • Data Structures • Software Architecture
-**Tools:** VS Code • Git/GitHub
+### 🛠️ Tech Stack
 
-<br />
+<img src="https://skillicons.dev/icons?i=java,python,html,github,vscode,blender&perline=6" />
 
-### 🎨 Meraki Dot Studios
-**The creative extension: Bringing narrative to technical projects.**
+---
 
-**Animation & 3D:** Blender • Motion Design
-**Post-Production:** Advanced Video Editing • Storyboarding
-**Sound:** Digital Music Production
+### 🎯 What I Do
 
-<br />
+**💻 Software Development**  
+Building applications and games with a focus on clean code and design
 
-### 🛠 Tech Stack & Tools
-<img src="https://skillicons.dev/icons?i=java,python,html,css,vscode,github,blender&theme=dark" />
+**🎨 Creative Projects**  
+Animation, sound design, and video editing
 
-<br />
-<br />
+**📚 Continuous Learning**  
+Always exploring new tools and techniques
 
-### 📈 Contribution Rhythm
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadYasser114&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=9ca3af" alt="GitHub Streak" width="85%" />
+---
 
-<br />
-<br />
+### 📊 GitHub Stats
 
-<sub>Built with precision by Zeyad Yasser • 2026</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadYasser114&theme=transparent&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&hide_title=true&theme=transparent&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="48%"/>
+
+---
+
+### 🤝 Let's Connect
+
+Building something interesting? Let's talk.
+
+---
+
+<sub>💡 Driven by curiosity, built with intention</sub>
 
 </div>
