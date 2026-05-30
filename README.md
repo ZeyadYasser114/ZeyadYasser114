@@ -9,7 +9,6 @@
 ### 👨‍💻 About Me
 
 🎓 Computer Science @ Zewail University of Science and Technology  
-💻 Building with **Java** | Problem Solving | Software Design  
 🎨 Creative work in music, animation & editing
 
 ---
@@ -22,11 +21,11 @@
 
 ### 🎯 What I Do
 
-**💻 Software Development**  
+**💻 Software Engineering**  
 Building applications and games with a focus on clean code and design
 
 **🎨 Creative Projects**  
-Animation, sound design, and video editing
+Animation, Music Production, and Video Editing
 
 **📚 Continuous Learning**  
 Always exploring new tools and techniques
