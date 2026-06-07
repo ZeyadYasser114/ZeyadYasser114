@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Computer Science @ Zewail University of Science and Technology  
+🎓 Software Engineer @ Zewail University of Science and Technology  
 🎨 Creative work in music, animation & editing
 
 ---
