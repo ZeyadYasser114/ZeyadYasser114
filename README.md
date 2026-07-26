@@ -1,17 +1,9 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                       HEADER                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071014,50:0a1a1f,100:00343d&height=180&section=header" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Caveat&size=48&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=70&lines=Zeyad+Yasser" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Caveat&size=22&duration=4000&pause=1000&color=8899A6&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer+%C3%97+Systems+Thinker" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071014,50:0a1a1f,100:00343d&height=180&section=header&text=Zeyad%20Yasser&fontSize=42&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C3%97%20Creator%20&descAlignY=55&descSize=18&font=Raleway" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Zewail+City;Backend+AI+Engineer+Intern+%40+FlyRank;From+silicon+to+software;Animator+%C3%97+Music+Producer+on+the+side)](https://git.io/typing-svg)
 
@@ -36,22 +28,24 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+\`\`\`
 ╔═══════════════════════════════════════════════════════╗
-║ > CONNECTING TO NODE... ║
-║ > ACCESS GRANTED ║
-║ ║
-║ PROFILE_ID : ZeyadYasser114 ║
-║ ROLE : Software Engineer (Student) ║
-║ DEPLOYMENT : Zewail City for Science & Technology ║
-║ CURRENT_OPS : Backend AI Engineer Intern @ FlyRank ║
-║ ORIGIN : Silicon → Software ║
+║  > CONNECTING TO NODE...                              ║
+║  > ACCESS GRANTED                                     ║
+║                                                        ║
+║  PROFILE_ID   : ZeyadYasser114                         ║
+║  ROLE         : Software Engineer (Student)            ║
+║  DEPLOYMENT   : Zewail City for Science & Technology    ║
+║  CURRENT_OPS  : Backend AI Engineer Intern @ FlyRank    ║
+║  ORIGIN       : Silicon → Software                      ║
 ╚═══════════════════════════════════════════════════════╝
+\\\
+
+\\\
 $ ./run --module=creative
-
-ANIMATION.exe ......... [ACTIVE]
-MUSIC_PROD.exe ......... [ACTIVE]
-
-text
+> ANIMATION.exe  ......... [ACTIVE]
+> MUSIC_PROD.exe ......... [ACTIVE]
+\\\
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
