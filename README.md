@@ -3,7 +3,16 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:1a1a1a&height=180&section=header&text=Zeyad%20Yasser&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C3%97%20Creator%20&descAlignY=55&descSize=18&font=Satisfy" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:1a1a1a&height=200&section=header" width="100%"/>
+
+<div align="center" style="margin-top: -100px; position: relative; z-index: 10;">
+  <h1 style="font-family: 'Caveat', cursive; font-size: 64px; font-weight: 700; color: #ffffff; margin: 0; letter-spacing: 2px;">
+    Zeyad Yasser
+  </h1>
+  <p style="font-family: 'Caveat', cursive; font-size: 28px; color: #cccccc; margin: 5px 0 0 0;">
+    Software Engineer × Creator
+  </p>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Zewail+City;Backend+AI+Engineer+Intern+%40+FlyRank;From+silicon+to+software;Animator+%C3%97+Music+Producer+on+the+side)](https://git.io/typing-svg)
 
