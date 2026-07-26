@@ -29,6 +29,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+```
+╔═══════════════════════════════════════════════════════╗
+║  $ who/am/i                                           ║
+║                                                       ║
+║  > Founder @ Meraki Studios                           ║
+║  > Specializing in backend systems                    ║
+║  > Backend AI Engineer @ FlyRank                      ║
+║  > Open-source contributor                            ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
