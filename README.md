@@ -30,7 +30,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  $ who/am/i                                           ║
+║  $ whoami                                             ║
 ║                                                       ║
 ║  > Founder @ Meraki Studios                           ║
 ║  > Specializing in backend systems                    ║
