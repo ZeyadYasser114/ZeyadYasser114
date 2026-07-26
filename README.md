@@ -28,24 +28,7 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-\\\
-╔═══════════════════════════════════════════════════════╗
-║  > CONNECTING TO NODE...                              ║
-║  > ACCESS GRANTED                                     ║
-║                                                        ║
-║  PROFILE_ID   : ZeyadYasser114                         ║
-║  ROLE         : Software Engineer (Student)            ║
-║  DEPLOYMENT   : Zewail City for Science & Technology    ║
-║  CURRENT_OPS  : Backend AI Engineer Intern @ FlyRank    ║
-║  ORIGIN       : Silicon → Software                      ║
-╚═══════════════════════════════════════════════════════╝
-\\\
 
-\\\
-$ ./run --module=creative
-> ANIMATION.exe  ......... [ACTIVE]
-> MUSIC_PROD.exe ......... [ACTIVE]
-\\\
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
