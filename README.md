@@ -136,36 +136,3 @@ text
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00343d,50:0a1a1f,100:071014&height=120&section=footer" width="100%"/>
 
 </div>
-🐍 Snake animation setup
-Since you said "sure" — here's the workflow you need. Create this file in your ZeyadYasser114/ZeyadYasser114 repo at .github/workflows/snake.yml:
-
-YAML
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ZeyadYasser114
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
