@@ -27,16 +27,19 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+```
 ╔═══════════════════════════════════════════════════════╗
-║ $ whoami                                              ║
+║  $ whoami                                             ║
 ║                                                       ║
-║ > Founder @ Meraki Studios                            ║
-║ > Specializing in backend systems                     ║
-║ > Backend AI Engineer @ FlyRank                       ║
-║ > Open-source contributor                             ║
+║  > Founder @ Meraki Studios                           ║
+║  > Specializing in backend systems                    ║
+║  > Backend AI Engineer @ FlyRank                      ║
+║  > Open-source contributor                            ║
 ╚═══════════════════════════════════════════════════════╝
-code
-Code
+```
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -77,15 +80,15 @@ Code
 <h2 align="center">📊 System Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=080808&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff&cache=1" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=080808&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=080808&title_color=ffffff&text_color=cccccc&langs_count=8&cache=1" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=080808&title_color=ffffff&text_color=cccccc&langs_count=8" height="175"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZeyadYasser114&theme=radical&hide_border=true&background=080808&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&stroke=1a1a1a&cache=1" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=ZeyadYasser114&theme=radical&hide_border=true&background=080808&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&stroke=1a1a1a" height="175"/>
 </div>
 
 <br/>
@@ -99,7 +102,7 @@ Code
 <h2 align="center">📈 Trace Log</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadYasser114&bg_color=080808&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff15&hide_border=true&cache=1" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadYasser114&bg_color=080808&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff15&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -119,5 +122,7 @@ Code
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:080808,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
 
 </div>
