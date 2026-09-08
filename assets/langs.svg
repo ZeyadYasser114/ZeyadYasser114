@@ -1,0 +1,28 @@
+<svg width="480" height="264" viewBox="0 0 480 264" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="$ top-languages --user ZeyadYasser114">
+  <style>
+    .title { font: 600 15px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #ffffff; }
+    .label { font: 400 12.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #888888; }
+    .value { font: 600 13px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #cccccc; }
+    .mono  { font: 400 11.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #888888; }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="263" rx="10"
+        fill="#080808" stroke="#1a1a1a" />
+  <line x1="20" y1="42" x2="460" y2="42" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="20" y="28" class="title">$ top-languages --user ZeyadYasser114</text>
+  <circle cx="450" cy="22" r="4" fill="#555555"/>
+  <circle cx="438" cy="22" r="4" fill="#555555" opacity="0.6"/>
+  <circle cx="426" cy="22" r="4" fill="#555555" opacity="0.3"/>
+  <text x="20" y="66" class="label">C++</text><text x="460" y="66" text-anchor="end" class="mono">27.2%</text>
+  <rect x="20" y="74" width="440" height="6" rx="3" fill="#101010" stroke="#1a1a1a"/>
+  <rect x="20" y="74" width="120" height="6" rx="3" fill="#f34b7d"/><text x="20" y="100" class="label">Makefile</text><text x="460" y="100" text-anchor="end" class="mono">24.6%</text>
+  <rect x="20" y="108" width="440" height="6" rx="3" fill="#101010" stroke="#1a1a1a"/>
+  <rect x="20" y="108" width="108" height="6" rx="3" fill="#ffffff"/><text x="20" y="134" class="label">CMake</text><text x="460" y="134" text-anchor="end" class="mono">23.8%</text>
+  <rect x="20" y="142" width="440" height="6" rx="3" fill="#101010" stroke="#1a1a1a"/>
+  <rect x="20" y="142" width="105" height="6" rx="3" fill="#ffffff"/><text x="20" y="168" class="label">C</text><text x="460" y="168" text-anchor="end" class="mono">9.2%</text>
+  <rect x="20" y="176" width="440" height="6" rx="3" fill="#101010" stroke="#1a1a1a"/>
+  <rect x="20" y="176" width="41" height="6" rx="3" fill="#555555"/><text x="20" y="202" class="label">JavaScript</text><text x="460" y="202" text-anchor="end" class="mono">8.4%</text>
+  <rect x="20" y="210" width="440" height="6" rx="3" fill="#101010" stroke="#1a1a1a"/>
+  <rect x="20" y="210" width="37" height="6" rx="3" fill="#f1e05a"/><text x="20" y="236" class="label">HTML</text><text x="460" y="236" text-anchor="end" class="mono">6.8%</text>
+  <rect x="20" y="244" width="440" height="6" rx="3" fill="#101010" stroke="#1a1a1a"/>
+  <rect x="20" y="244" width="30" height="6" rx="3" fill="#e34c26"/>
+</svg>

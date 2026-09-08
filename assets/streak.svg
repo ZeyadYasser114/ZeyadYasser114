@@ -1,0 +1,22 @@
+<svg width="480" height="150" viewBox="0 0 480 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="$ streak --user ZeyadYasser114">
+  <style>
+    .title { font: 600 15px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #ffffff; }
+    .label { font: 400 12.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #888888; }
+    .value { font: 600 13px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #cccccc; }
+    .mono  { font: 400 11.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #888888; }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="149" rx="10"
+        fill="#080808" stroke="#1a1a1a" />
+  <line x1="20" y1="42" x2="460" y2="42" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="20" y="28" class="title">$ streak --user ZeyadYasser114</text>
+  <circle cx="450" cy="22" r="4" fill="#555555"/>
+  <circle cx="438" cy="22" r="4" fill="#555555" opacity="0.6"/>
+  <circle cx="426" cy="22" r="4" fill="#555555" opacity="0.3"/>
+  
+      <text x="93.33333333333333" y="80" text-anchor="middle" class="value" font-size="20" fill="#ffffff">0 days</text>
+      <text x="93.33333333333333" y="102" text-anchor="middle" class="label">Current Streak</text>
+      <text x="240" y="80" text-anchor="middle" class="value" font-size="20" fill="#ffffff">10 days</text>
+      <text x="240" y="102" text-anchor="middle" class="label">Longest Streak</text>
+      <text x="386.66666666666663" y="80" text-anchor="middle" class="value" font-size="20" fill="#ffffff">301</text>
+      <text x="386.66666666666663" y="102" text-anchor="middle" class="label">Total Contributions</text><line x1="166.66666666666666" y1="60" x2="166.66666666666666" y2="115" stroke="#1a1a1a" stroke-width="1"/><line x1="313.3333333333333" y1="60" x2="313.3333333333333" y2="115" stroke="#1a1a1a" stroke-width="1"/>
+</svg>
