@@ -80,15 +80,19 @@
 <h2 align="center">📊 System Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=080808&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" height="175"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=080808&title_color=ffffff&text_color=cccccc&langs_count=8" height="175"/>
+  <img src="./assets/stats.svg" alt="GitHub stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZeyadYasser114&theme=radical&hide_border=true&background=080808&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&stroke=1a1a1a" height="175"/>
+  <img src="./assets/langs.svg" alt="Top languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/streak.svg" alt="Contribution streak"/>
 </div>
 
 <br/>
