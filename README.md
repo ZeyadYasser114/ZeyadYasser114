@@ -99,25 +99,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📈 Trace Log</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadYasser114&bg_color=080808&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff15&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadYasser114/ZeyadYasser114/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     FOOTER                               -->
