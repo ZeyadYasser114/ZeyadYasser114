@@ -98,6 +98,17 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  ACTIVITY GRAPH                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZeyadYasser114/ZeyadYasser114/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 
 <!-- ══════════════════════════════════════════════════════════ -->
