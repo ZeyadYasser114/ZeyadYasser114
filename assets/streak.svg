@@ -17,6 +17,6 @@
       <text x="93.33333333333333" y="102" text-anchor="middle" class="label">Current Streak</text>
       <text x="240" y="80" text-anchor="middle" class="value" font-size="20" fill="#ffffff">10 days</text>
       <text x="240" y="102" text-anchor="middle" class="label">Longest Streak</text>
-      <text x="386.66666666666663" y="80" text-anchor="middle" class="value" font-size="20" fill="#ffffff">303</text>
+      <text x="386.66666666666663" y="80" text-anchor="middle" class="value" font-size="20" fill="#ffffff">305</text>
       <text x="386.66666666666663" y="102" text-anchor="middle" class="label">Total Contributions</text><line x1="166.66666666666666" y1="60" x2="166.66666666666666" y2="115" stroke="#1a1a1a" stroke-width="1"/><line x1="313.3333333333333" y1="60" x2="313.3333333333333" y2="115" stroke="#1a1a1a" stroke-width="1"/>
 </svg>
