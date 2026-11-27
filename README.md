@@ -4,7 +4,7 @@
 <div align="center">
 <p style="font-family: cursive; font-size: 18px; color: #cccccc; margin: 0 0 20px 0;">Software Engineer × Creator</p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Zewail+City;Backend+AI+Engineer+Intern+%40+FlyRank;Embedded+Systems+Engineer+%40;From+silicon+to+software;Animator+%C3%97+Music+Producer+on+the+side)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Zewail+City;Backend+AI+Engineer+Intern+%40+FlyRank;Embedded+Systems+Engineer;From+silicon+to+software;Animator+%C3%97+Music+Producer+on+the+side)](https://git.io/typing-svg)
 
 <br/>
 
